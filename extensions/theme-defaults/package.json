@@ -14,6 +14,12 @@
   "contributes": {
     "themes": [
       {
+        "id": "Side Quest Dark",
+        "label": "%sideQuestDarkThemeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/side_quest_dark.json"
+      },
+      {
         "id": "Light 2026",
         "label": "%light2026ThemeLabel%",
         "uiTheme": "vs",
