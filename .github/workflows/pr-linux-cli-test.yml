@@ -18,7 +18,7 @@ jobs:
       - name: Checkout microsoft/vscode
         uses: actions/checkout@v6
         with:
-          lfs: true
+          lfs: false
 
       - name: Install Rust
         run: |
