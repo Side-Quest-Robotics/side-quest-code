@@ -44,12 +44,19 @@ beforeEach(async function () {
 
 	pageErrors.length = 0;
 	page.on('pageerror', (e) => {
-		console.log(e);
+		console.log('[pageerror]', e);
 		pageErrors.push(e);
 	});
-	page.on('pageerror', (e) => {
-		console.log(e);
-		pageErrors.push(e);
+	page.on('console', (msg) => {
+		console.log(`[console.${msg.type()}]`, msg.text());
+	});
+	page.on('requestfailed', (req) => {
+		console.log('[requestfailed]', req.url(), req.failure()?.errorText);
+	});
+	page.on('response', (res) => {
+		if (res.status() >= 400) {
+			console.log('[response]', res.status(), res.url());
+		}
 	});
 });
 
@@ -65,6 +72,21 @@ describe('API Integration Tests', function (): void {
 
 	beforeEach(async () => {
 		await page.goto(APP);
+		try {
+			await page.waitForFunction('typeof window.instance !== "undefined"', { timeout: 10000 });
+		} catch (e) {
+			const diag = await page.evaluate(() => {
+				const w = window as unknown as { instance?: unknown; __monacoInitError?: unknown; monaco?: unknown };
+				return {
+					hasInstance: typeof w.instance,
+					initError: w.__monacoInitError,
+					hasMonaco: typeof w.monaco,
+					scripts: Array.from(document.scripts).map(s => s.src),
+				};
+			});
+			console.log('[diag] waitForFunction(instance) timed out:', JSON.stringify(diag, null, 2));
+			throw e;
+		}
 	});
 
 	it('`monaco` is not exposed as global', async function (): Promise<any> {
