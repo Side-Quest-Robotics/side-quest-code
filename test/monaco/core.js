@@ -6,25 +6,32 @@
 import * as monaco from 'monaco-editor-core';
 
 self.MonacoEnvironment = {
+	globalAPI: true,
 	getWorkerUrl: function (moduleId, label) {
 		return './editorWebWorkerMain.bundle.js';
 	}
 };
 
-window.instance = monaco.editor.create(document.getElementById('container'), {
-	value: [
-		'from banana import *',
-		'',
-		'class Monkey:',
-		'	# Bananas the monkey can eat.',
-		'	capacity = 10',
-		'	def eat(self, N):',
-		'		\'\'\'Make the monkey eat N bananas!\'\'\'',
-		'		capacity = capacity - N*banana.size',
-		'',
-		'	def feeding_frenzy(self):',
-		'		eat(9.25)',
-		'		return "Yum yum"',
-	].join('\n'),
-	language: 'python'
-});
+try {
+	window.instance = monaco.editor.create(document.getElementById('container'), {
+		value: [
+			'from banana import *',
+			'',
+			'class Monkey:',
+			'	# Bananas the monkey can eat.',
+			'	capacity = 10',
+			'	def eat(self, N):',
+			'		\'\'\'Make the monkey eat N bananas!\'\'\'',
+			'		capacity = capacity - N*banana.size',
+			'',
+			'	def feeding_frenzy(self):',
+			'		eat(9.25)',
+			'		return "Yum yum"',
+		].join('\n'),
+		language: 'python'
+	});
+} catch (e) {
+	window.__monacoInitError = (e && e.stack) || String(e);
+	console.error('monaco.editor.create failed:', e);
+	throw e;
+}
