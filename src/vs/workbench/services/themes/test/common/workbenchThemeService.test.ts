@@ -22,15 +22,15 @@ suite('WorkbenchThemeService', () => {
 
 		test('migrates Experimental theme IDs to VS Code themes', () => {
 			assert.deepStrictEqual(
-				['Experimental Dark', 'Experimental Light', 'VS Code Dark', 'VS Code Light'].map(migrateThemeSettingsId),
-				[ThemeSettingDefaults.COLOR_THEME_DARK, ThemeSettingDefaults.COLOR_THEME_LIGHT, ThemeSettingDefaults.COLOR_THEME_DARK, ThemeSettingDefaults.COLOR_THEME_LIGHT]
+				['Dark 2026', 'Experimental Dark', 'Experimental Light', 'VS Code Dark', 'VS Code Light'].map(migrateThemeSettingsId),
+				[ThemeSettingDefaults.COLOR_THEME_DARK, ThemeSettingDefaults.COLOR_THEME_DARK, ThemeSettingDefaults.COLOR_THEME_LIGHT, ThemeSettingDefaults.COLOR_THEME_DARK, ThemeSettingDefaults.COLOR_THEME_LIGHT]
 			);
 		});
 
 		test('returns unknown IDs unchanged', () => {
 			assert.deepStrictEqual(
-				['Dark Modern', 'Dark 2026', 'Some Custom Theme', ''].map(migrateThemeSettingsId),
-				['Dark Modern', 'Dark 2026', 'Some Custom Theme', '']
+				['Dark Modern', 'Some Custom Theme', ''].map(migrateThemeSettingsId),
+				['Dark Modern', 'Some Custom Theme', '']
 			);
 		});
 	});

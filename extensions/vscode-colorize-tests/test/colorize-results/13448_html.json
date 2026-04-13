@@ -8,11 +8,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -24,11 +25,12 @@
 			"dark_vs": "entity.name.tag: #569CD6",
 			"light_vs": "entity.name.tag: #800000",
 			"hc_black": "entity.name.tag: #569CD6",
+			"2026-dark": "entity.name.tag: #7EE787",
 			"dark_modern": "entity.name.tag: #569CD6",
+			"2026-light": "entity.name.tag: #116329",
 			"hc_light": "entity.name.tag: #0F4A85",
 			"light_modern": "entity.name.tag: #800000",
-			"2026-dark": "entity.name.tag: #7EE787",
-			"2026-light": "entity.name.tag: #116329"
+			"side_quest_dark": "entity.name.tag: #4EC9B0"
 		}
 	},
 	{
@@ -40,11 +42,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -56,11 +59,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -72,11 +76,12 @@
 			"dark_vs": "entity.name.tag: #569CD6",
 			"light_vs": "entity.name.tag: #800000",
 			"hc_black": "entity.name.tag: #569CD6",
+			"2026-dark": "entity.name.tag: #7EE787",
 			"dark_modern": "entity.name.tag: #569CD6",
+			"2026-light": "entity.name.tag: #116329",
 			"hc_light": "entity.name.tag: #0F4A85",
 			"light_modern": "entity.name.tag: #800000",
-			"2026-dark": "entity.name.tag: #7EE787",
-			"2026-light": "entity.name.tag: #116329"
+			"side_quest_dark": "entity.name.tag: #4EC9B0"
 		}
 	},
 	{
@@ -88,11 +93,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -104,11 +110,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -120,11 +127,12 @@
 			"dark_vs": "entity.name.tag: #569CD6",
 			"light_vs": "entity.name.tag: #800000",
 			"hc_black": "entity.name.tag: #569CD6",
+			"2026-dark": "entity.name.tag: #7EE787",
 			"dark_modern": "entity.name.tag: #569CD6",
+			"2026-light": "entity.name.tag: #116329",
 			"hc_light": "entity.name.tag: #0F4A85",
 			"light_modern": "entity.name.tag: #800000",
-			"2026-dark": "entity.name.tag: #7EE787",
-			"2026-light": "entity.name.tag: #116329"
+			"side_quest_dark": "entity.name.tag: #4EC9B0"
 		}
 	},
 	{
@@ -136,11 +144,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -152,11 +161,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -168,11 +178,12 @@
 			"dark_vs": "entity.name.tag: #569CD6",
 			"light_vs": "entity.name.tag: #800000",
 			"hc_black": "entity.name.tag: #569CD6",
+			"2026-dark": "entity.name.tag: #7EE787",
 			"dark_modern": "entity.name.tag: #569CD6",
+			"2026-light": "entity.name.tag: #116329",
 			"hc_light": "entity.name.tag: #0F4A85",
 			"light_modern": "entity.name.tag: #800000",
-			"2026-dark": "entity.name.tag: #7EE787",
-			"2026-light": "entity.name.tag: #116329"
+			"side_quest_dark": "entity.name.tag: #4EC9B0"
 		}
 	},
 	{
@@ -184,11 +195,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -200,11 +212,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	},
 	{
@@ -216,11 +229,12 @@
 			"dark_vs": "entity.name.tag: #569CD6",
 			"light_vs": "entity.name.tag: #800000",
 			"hc_black": "entity.name.tag: #569CD6",
+			"2026-dark": "entity.name.tag: #7EE787",
 			"dark_modern": "entity.name.tag: #569CD6",
+			"2026-light": "entity.name.tag: #116329",
 			"hc_light": "entity.name.tag: #0F4A85",
 			"light_modern": "entity.name.tag: #800000",
-			"2026-dark": "entity.name.tag: #7EE787",
-			"2026-light": "entity.name.tag: #116329"
+			"side_quest_dark": "entity.name.tag: #4EC9B0"
 		}
 	},
 	{
@@ -232,11 +246,12 @@
 			"dark_vs": "punctuation.definition.tag: #808080",
 			"light_vs": "punctuation.definition.tag: #800000",
 			"hc_black": "punctuation.definition.tag: #808080",
+			"2026-dark": "punctuation.definition.tag: #808080",
 			"dark_modern": "punctuation.definition.tag: #808080",
+			"2026-light": "punctuation.definition.tag: #800000",
 			"hc_light": "punctuation.definition.tag: #0F4A85",
 			"light_modern": "punctuation.definition.tag: #800000",
-			"2026-dark": "punctuation.definition.tag: #808080",
-			"2026-light": "punctuation.definition.tag: #800000"
+			"side_quest_dark": "punctuation.definition.tag: #808080"
 		}
 	}
 ]

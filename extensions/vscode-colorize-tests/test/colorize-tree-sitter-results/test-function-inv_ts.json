@@ -8,11 +8,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "variable: #9CDCFE",
+			"2026-dark": "variable.other: #C9D1D9",
 			"dark_modern": "variable: #9CDCFE",
+			"2026-light": "variable.other: #1F2328",
 			"hc_light": "variable: #001080",
 			"light_modern": "variable: #001080",
-			"2026-dark": "variable.other: #C9D1D9",
-			"2026-light": "variable.other: #1F2328"
+			"side_quest_dark": "variable.other: #9CDCFE"
 		}
 	},
 	{
@@ -24,11 +25,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -40,11 +42,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "entity.name.function: #DCDCAA",
+			"2026-dark": "entity.name.function: #D2A8FF",
 			"dark_modern": "entity.name.function: #DCDCAA",
+			"2026-light": "entity.name.function: #8250DF",
 			"hc_light": "entity.name.function: #5E2CBC",
 			"light_modern": "entity.name.function: #795E26",
-			"2026-dark": "entity.name.function: #D2A8FF",
-			"2026-light": "entity.name.function: #8250DF"
+			"side_quest_dark": "entity.name.function: #DCDCAA"
 		}
 	},
 	{
@@ -56,11 +59,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -72,11 +76,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "entity.name.function: #DCDCAA",
+			"2026-dark": "entity.name.function: #D2A8FF",
 			"dark_modern": "entity.name.function: #DCDCAA",
+			"2026-light": "entity.name.function: #8250DF",
 			"hc_light": "entity.name.function: #5E2CBC",
 			"light_modern": "entity.name.function: #795E26",
-			"2026-dark": "entity.name.function: #D2A8FF",
-			"2026-light": "entity.name.function: #8250DF"
+			"side_quest_dark": "entity.name.function: #DCDCAA"
 		}
 	},
 	{
@@ -88,11 +93,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -104,11 +110,12 @@
 			"dark_vs": "keyword.operator.new: #569CD6",
 			"light_vs": "keyword.operator.new: #0000FF",
 			"hc_black": "keyword.operator.new: #569CD6",
+			"2026-dark": "keyword.operator.new: #569CD6",
 			"dark_modern": "keyword.operator.new: #569CD6",
+			"2026-light": "keyword.operator.new: #0000FF",
 			"hc_light": "keyword.operator.new: #0F4A85",
 			"light_modern": "keyword.operator.new: #0000FF",
-			"2026-dark": "keyword.operator.new: #569CD6",
-			"2026-light": "keyword.operator.new: #0000FF"
+			"side_quest_dark": "keyword.operator.new: #569CD6"
 		}
 	},
 	{
@@ -120,11 +127,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "entity.name.function: #DCDCAA",
+			"2026-dark": "entity.name.function: #D2A8FF",
 			"dark_modern": "entity.name.function: #DCDCAA",
+			"2026-light": "entity.name.function: #8250DF",
 			"hc_light": "entity.name.function: #5E2CBC",
 			"light_modern": "entity.name.function: #795E26",
-			"2026-dark": "entity.name.function: #D2A8FF",
-			"2026-light": "entity.name.function: #8250DF"
+			"side_quest_dark": "entity.name.function: #DCDCAA"
 		}
 	},
 	{
@@ -136,11 +144,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -152,11 +161,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "variable: #9CDCFE",
+			"2026-dark": "variable: #FFA657",
 			"dark_modern": "variable: #9CDCFE",
+			"2026-light": "variable: #953800",
 			"hc_light": "variable: #001080",
 			"light_modern": "variable: #001080",
-			"2026-dark": "variable: #FFA657",
-			"2026-light": "variable: #953800"
+			"side_quest_dark": "variable: #9CDCFE"
 		}
 	},
 	{
@@ -168,11 +178,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -184,11 +195,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "variable: #9CDCFE",
+			"2026-dark": "variable: #FFA657",
 			"dark_modern": "variable: #9CDCFE",
+			"2026-light": "variable: #953800",
 			"hc_light": "variable: #001080",
 			"light_modern": "variable: #001080",
-			"2026-dark": "variable: #FFA657",
-			"2026-light": "variable: #953800"
+			"side_quest_dark": "variable: #9CDCFE"
 		}
 	},
 	{
@@ -200,11 +212,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -216,11 +229,12 @@
 			"dark_vs": "constant.language: #569CD6",
 			"light_vs": "constant.language: #0000FF",
 			"hc_black": "constant.language: #569CD6",
+			"2026-dark": "constant.language: #569CD6",
 			"dark_modern": "constant.language: #569CD6",
+			"2026-light": "constant.language: #0000FF",
 			"hc_light": "constant.language: #0F4A85",
 			"light_modern": "constant.language: #0000FF",
-			"2026-dark": "constant.language: #569CD6",
-			"2026-light": "constant.language: #0000FF"
+			"side_quest_dark": "constant.language: #569CD6"
 		}
 	},
 	{
@@ -232,11 +246,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -248,11 +263,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -264,11 +280,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	},
 	{
@@ -280,11 +297,12 @@
 			"dark_vs": "default: #D4D4D4",
 			"light_vs": "default: #000000",
 			"hc_black": "default: #FFFFFF",
+			"2026-dark": "default: #BBBEBF",
 			"dark_modern": "default: #CCCCCC",
+			"2026-light": "default: #202020",
 			"hc_light": "default: #292929",
 			"light_modern": "default: #3B3B3B",
-			"2026-dark": "default: #BBBEBF",
-			"2026-light": "default: #202020"
+			"side_quest_dark": "default: #D4D6D8"
 		}
 	}
 ]
